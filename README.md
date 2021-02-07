@@ -40,7 +40,7 @@
 
 ## Ссылка на Демо версию
 
-[демо](http://soundsurfers.ru/)
+[демо](http://yii-regform.gt-design.ru/web/)
 
 ## Структура базы данных
 
